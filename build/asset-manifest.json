@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/carlosulloa/static/css/main.3796483f.css",
+    "main.js": "/carlosulloa/static/js/main.274ae549.js",
+    "static/media/portfolio-python.png": "/carlosulloa/static/media/portfolio-python.6422c5083bc41ee0f344.png",
+    "static/media/portf-beauti.png": "/carlosulloa/static/media/portf-beauti.527b7f2277033e2d50be.png",
+    "static/media/port-webscra.png": "/carlosulloa/static/media/port-webscra.92ea3e92cc4871155460.png",
+    "static/media/portfolio-rocket.png": "/carlosulloa/static/media/portfolio-rocket.42017281564a2fe2bac7.png",
+    "static/media/luis.jpg": "/carlosulloa/static/media/luis.62aa78f7f45c9191c8f2.jpg",
+    "static/media/belen.jpg": "/carlosulloa/static/media/belen.7a72f3edb14388a47392.jpg",
+    "static/media/oscar.jpg": "/carlosulloa/static/media/oscar.d74c53465ffc34e50dce.jpg",
+    "static/media/Ulloa_CV.pdf": "/carlosulloa/static/media/Ulloa_CV.2a9c37ee0665baa55f12.pdf",
+    "static/media/Jhon.jpg": "/carlosulloa/static/media/Jhon.89ea265d803f1bf80f41.jpg",
+    "static/media/glassesimoji.png": "/carlosulloa/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/yolentes.jpg": "/carlosulloa/static/media/yolentes.0a1355f473a2f73f992e.jpg",
+    "static/media/nor.jpg": "/carlosulloa/static/media/nor.a50b991ba0ef71c42cac.jpg",
+    "static/media/glaspython.png": "/carlosulloa/static/media/glaspython.6a5cbc319ab3ddf8ef92.png",
+    "static/media/iconreact.png": "/carlosulloa/static/media/iconreact.86c8d9eba03e29814d2a.png",
+    "static/media/glascsharp.png": "/carlosulloa/static/media/glascsharp.4a32f53d425c7ad4cb05.png",
+    "static/media/iconrocket.png": "/carlosulloa/static/media/iconrocket.7dcc40bc9a74fcf03714.png",
+    "static/media/visual-basic.png": "/carlosulloa/static/media/visual-basic.277dd9edab30d756b205.png",
+    "static/media/iconmysql.png": "/carlosulloa/static/media/iconmysql.7d8d571e5629923eaf74.png",
+    "static/media/iconcisco.png": "/carlosulloa/static/media/iconcisco.f1380dab153c8e5f5048.png",
+    "static/media/thumbup.png": "/carlosulloa/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/carlosulloa/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/carlosulloa/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/carlosulloa/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/carlosulloa/index.html",
+    "main.3796483f.css.map": "/carlosulloa/static/css/main.3796483f.css.map",
+    "main.274ae549.js.map": "/carlosulloa/static/js/main.274ae549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3796483f.css",
+    "static/js/main.274ae549.js"
+  ]
+}

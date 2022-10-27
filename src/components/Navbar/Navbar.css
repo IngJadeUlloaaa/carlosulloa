@@ -1,0 +1,99 @@
+.n-wrapper {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  top: 0;
+}
+.n-left {
+  flex: 1;
+  align-items: center;
+  justify-content: left;
+  display: flex;
+  gap: 2rem;
+}
+
+.n-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.n-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-weight: 400;
+}
+
+.n-list {
+  flex: 10;
+}
+.n-list > ul {
+  display: flex;
+  gap: 2rem;
+  margin-right: 4rem;
+}
+
+.n-list > ul :hover {
+  color: var(--orange);
+  cursor: pointer;
+}
+
+.n-button {
+  flex: 2;
+}
+
+@media screen and (max-width: 480px) {
+  .n-list {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .n-button{
+   transform: scale(0.7);
+   margin-left: -1px;
+  }
+  .n-left{
+    transform: scale(1);
+    margin-left: -10px;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .toggle{
+    margin-left: -1.5rem;
+  }
+  .n-name{
+    font-size: 1.5rem;
+  }
+  .n-button{
+    transform: scale(0.9);
+    margin: 5px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .toggle{
+    margin-left: -1.3rem;
+  }
+}
+
+@media screen and (max-width: 384px){
+  .toggle{
+    margin-left: -1.3rem;
+  }
+  .n-wrapper{
+    margin: 5px;
+  }
+}
+
+
+@media screen and (max-width: 390px){
+  .n-left .n-name{
+    font-size: 1.6rem;
+  }
+  .toggle{
+    margin-left: -1rem;
+  }
+}

@@ -1,0 +1,106 @@
+.footer {
+  display: flex;
+  align-items: center;
+  margin: -0.5rem -3.5rem;
+  position: relative;
+  margin-top: -7rem;
+}
+.f-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 4rem;
+  gap: 4rem;
+  color: white;
+}
+.f-icons {
+  display: flex;
+  gap: 2rem;
+}
+
+@media screen and (max-width: 480px){
+  .footer{
+    height: 18rem;
+    margin-top: 5rem;
+  }
+  .f-content{
+    transform: scale(0.6);
+  }
+  .f-content span{
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-weight: 410;
+  }
+  .f-icons a{
+    margin: -2.9rem 1rem;
+    transform: scale(1);
+  }
+}
+
+@media screen and (max-width: 320px){
+  .footer{
+    margin-top: 32.5rem;
+  }
+  .f-content span{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .f-icons a{
+    padding-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .footer{
+    margin-top: 25rem;
+  }
+  .f-content span{
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .f-icons a{
+    padding-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .footer{
+    margin-top: 21rem;
+  }
+  .f-content span{
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .f-icons a{
+    padding-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 384px){
+  .footer{
+    margin-top: 24rem;
+  }
+  .f-content span{
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .f-icons a{
+    padding-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 390px){
+  .footer{
+    margin-top: 20rem;
+  }
+  .f-content span{
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .f-icons a{
+    padding-top: 1rem;
+  }
+}
